@@ -1,8 +1,8 @@
-package com.daniel.encrypt.starter.req;
+package org.daniel.encrypt.starter.req;
 
-import com.daniel.encrypt.starter.annotation.Decrypt;
-import com.daniel.encrypt.starter.config.EncryptProperties;
-import com.daniel.encrypt.starter.util.AESUtils;
+import org.daniel.encrypt.starter.annotation.Decrypt;
+import org.daniel.encrypt.starter.config.EncryptProperties;
+import org.daniel.encrypt.starter.util.AESUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.core.MethodParameter;

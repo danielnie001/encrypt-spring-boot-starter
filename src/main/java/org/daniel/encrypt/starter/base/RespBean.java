@@ -1,4 +1,4 @@
-package com.daniel.encrypt.starter.base;
+package org.daniel.encrypt.starter.base;
 
 
 /**
