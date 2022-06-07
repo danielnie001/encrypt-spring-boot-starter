@@ -1,4 +1,4 @@
-package org.daniel.encrypt.starter.util;
+package org.wujie.encrypt.starter.util;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;

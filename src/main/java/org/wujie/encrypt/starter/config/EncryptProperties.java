@@ -1,4 +1,4 @@
-package org.daniel.encrypt.starter.config;
+package org.wujie.encrypt.starter.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

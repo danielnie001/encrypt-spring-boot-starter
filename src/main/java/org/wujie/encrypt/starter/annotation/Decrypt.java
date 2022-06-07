@@ -1,4 +1,4 @@
-package org.daniel.encrypt.starter.annotation;
+package org.wujie.encrypt.starter.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -7,10 +7,11 @@ import java.lang.annotation.Target;
 
 /**
  * @author niehaisheng
- * @date 2022/6/6 14:22
+ * @date 2022/6/6 14:21
  */
 @Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.METHOD)
-public @interface Encrypt {
+@Target({ElementType.METHOD,ElementType.PARAMETER})
+public @interface Decrypt {
+
 
 }

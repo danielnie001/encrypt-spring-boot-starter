@@ -1,4 +1,4 @@
-package org.daniel.encrypt.starter.base;
+package org.wujie.encrypt.starter.base;
 
 
 /**
