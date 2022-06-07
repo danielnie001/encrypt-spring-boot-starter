@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("com.daniel.encrypt.starter")
+@ComponentScan("org.wujie.encrypt.starter")
 public class EncryptAutoConfiguration {
 
 }
