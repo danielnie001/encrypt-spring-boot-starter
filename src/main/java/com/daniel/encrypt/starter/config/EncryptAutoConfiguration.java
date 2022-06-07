@@ -1,4 +1,4 @@
-package com.daniel.encrypt.springboot.starter.config;
+package com.daniel.encrypt.starter.config;
 
 /**
  * @author niehaisheng
@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan("com.daniel.encryptspringbootstarter")
+@ComponentScan("com.daniel.encrypt.starter")
 public class EncryptAutoConfiguration {
 
 }

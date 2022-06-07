@@ -1,4 +1,4 @@
-package com.daniel.encrypt.springboot.starter.annotation;
+package com.daniel.encrypt.starter.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

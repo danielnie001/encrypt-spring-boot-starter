@@ -1,4 +1,4 @@
-package com.daniel.encrypt.springboot.starter;
+package com.daniel.encrypt.starter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

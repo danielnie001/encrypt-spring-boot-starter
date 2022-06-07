@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.daniel.encrypt.springboot.starter.config.EncryptAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.daniel.encrypt.starter.config.EncryptAutoConfiguration

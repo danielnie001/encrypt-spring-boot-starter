@@ -1,4 +1,4 @@
-package com.daniel.encrypt.springboot.starter;
+package com.daniel.encrypt.starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

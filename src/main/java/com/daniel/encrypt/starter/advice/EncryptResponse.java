@@ -1,9 +1,9 @@
-package com.daniel.encrypt.springboot.starter.advice;
+package com.daniel.encrypt.starter.advice;
 
-import com.daniel.encrypt.springboot.starter.annotation.Encrypt;
-import com.daniel.encrypt.springboot.starter.base.RespBean;
-import com.daniel.encrypt.springboot.starter.util.AESUtils;
-import com.daniel.encrypt.springboot.starter.config.EncryptProperties;
+import com.daniel.encrypt.starter.annotation.Encrypt;
+import com.daniel.encrypt.starter.base.RespBean;
+import com.daniel.encrypt.starter.config.EncryptProperties;
+import com.daniel.encrypt.starter.util.AESUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
