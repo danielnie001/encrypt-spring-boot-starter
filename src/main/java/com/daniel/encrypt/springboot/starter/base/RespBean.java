@@ -1,4 +1,4 @@
-package com.daniel.encryptspringbootstarter.base;
+package com.daniel.encrypt.springboot.starter.base;
 
 
 /**

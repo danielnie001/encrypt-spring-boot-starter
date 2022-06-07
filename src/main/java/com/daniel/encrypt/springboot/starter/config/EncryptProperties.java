@@ -1,4 +1,4 @@
-package com.daniel.encryptspringbootstarter.config;
+package com.daniel.encrypt.springboot.starter.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

@@ -1,4 +1,4 @@
-package com.daniel.encryptspringbootstarter.util;
+package com.daniel.encrypt.springboot.starter.util;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
